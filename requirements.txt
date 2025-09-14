@@ -1,0 +1,12 @@
+google-play-scraper
+pandas
+numpy
+matplotlib
+seaborn
+wordcloud
+nltk
+scikit-learn
+spacy
+lxml
+beautifulsoup4
+html5lib
