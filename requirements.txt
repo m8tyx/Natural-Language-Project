@@ -7,6 +7,4 @@ wordcloud
 nltk
 scikit-learn
 spacy
-lxml
-beautifulsoup4
-html5lib
+contractions
