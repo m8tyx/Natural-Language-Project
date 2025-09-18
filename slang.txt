@@ -124,5 +124,3 @@ rateup=increased chance
 pity=gacha pity system
 spark=guaranteed reward
 reroll=reroll account
-umazing=amazing
-absolute cinema=masterpiece
